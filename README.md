@@ -3,8 +3,13 @@
 <p align="center">
   <!-- Badge LinkedIn -->
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-5bc0de?logo=linkedin&logoColor=white&labelColor=5bc0de&color=lightgrey" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
+  <!-- Badge Visitas -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27&left_color=0077B5&right_color=lightgrey&left_text=Visitas" alt="Visitas">
+</p>
+
   
   <!-- Badge Visitas uniforme -->
   <img src="https://img.shields.io/badge/Visitas-123-lightgrey?style=flat&labelColor=5bc0de&color=lightgrey" alt="Visitas">
