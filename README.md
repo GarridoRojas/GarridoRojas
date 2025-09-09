@@ -1,11 +1,5 @@
 ><img width="3780" height="1890" alt="Black White Modern Live Music Concert Baner Landscape" src="https://github.com/user-attachments/assets/a250bc43-e33a-4742-b6de-0224f07d3e52" />
 
-<p align="center">
-  <!-- Badge LinkedIn -->
-  <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
-    <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
   <!-- Badge Visitas -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27&left_color=0077B5&right_color=lightgrey&left_text=Visitas" alt="Visitas">
 </p>
