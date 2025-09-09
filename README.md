@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-5bc0de?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27&left_color=0d8ddb&right_color=lightgrey&left_text=Visitas" alt="Visitas">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27&left_color=5bc0de&right_color=lightgrey&left_text=Visitas" alt="Visitas">
 </p>
 
 
