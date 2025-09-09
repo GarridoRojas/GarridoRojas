@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27&left_color=0d8ddb&right_color=lightgrey&left_text=Visitas" alt="Visitas">
+  <![Visitas](https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27&left_text=Visitas)](https://github.com/amairani27)
+>
 </p>
 
 
