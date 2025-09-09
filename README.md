@@ -1,4 +1,5 @@
 ><img width="3780" height="1890" alt="Black White Modern Live Music Concert Baner Landscape" src="https://github.com/user-attachments/assets/a250bc43-e33a-4742-b6de-0224f07d3e52" />
+-->
 **GarridoRojas/GarridoRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2 align="center">Hola soy Mayan Es un placer conocerte! 👋</h2>
 
