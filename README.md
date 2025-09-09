@@ -2,12 +2,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-5bc0de?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/amairani27">
-    <img src="(https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27)" alt="Visitas">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27&left_color=5bc0de&right_color=lightgrey&left_text=Visitas" alt="Visitas">
   </a>
 </p>
+
+
 
 <h2 align="center">Hola soy Mayan ¡Es un placer conocerte! 👋</h2>
 
