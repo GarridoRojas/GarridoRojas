@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning and studying SQL and Python language
 - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amairani%20Garrido-5bc0de?style=flat&logo=linkedin&logoColor=white&labelColor=5bc0de&color=lightgrey" alt="LinkedIn">
-- 😄 Pronouns: ...
+    <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 
