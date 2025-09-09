@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on as a service desk analyst.
 - 🌱 I'm currently learning and studying SQL and Python language
-- 📫 How to reach me: href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
+- 📫 How to reach me:
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white&labelColor=5bc0de&color=lightgrey" alt="LinkedIn">
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
