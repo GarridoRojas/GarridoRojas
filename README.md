@@ -1,6 +1,5 @@
 <p align="center">
 ## Hi there👋
-</p>
 <!--
 **GarridoRojas/GarridoRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
