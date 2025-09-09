@@ -1,7 +1,7 @@
 ><img width="3780" height="1890" alt="Black White Modern Live Music Concert Baner Landscape" src="https://github.com/user-attachments/assets/a250bc43-e33a-4742-b6de-0224f07d3e52" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amairani-garrido-rojas27/)
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27)
+<h2 align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amairani-garrido-rojas27/)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27)</h2>
 
 <h2 align="center">Hola soy Mayan ¡Es un placer conocerte! 👋</h2>
 
