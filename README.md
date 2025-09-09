@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><img width="3780" height="1890" alt="Black White Modern Live Music Concert Baner Landscape" src="https://github.com/user-attachments/assets/a250bc43-e33a-4742-b6de-0224f07d3e52" />
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famairani-garrido-rojas27%2F)
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&link=%3Chttps%3A%2F%2Fwww.linkedin.com%2Fin%2Famairani-garrido-rojas27%2F%3E)
+
 
 
