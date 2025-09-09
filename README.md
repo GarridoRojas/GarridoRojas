@@ -20,6 +20,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
     <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 
+<h2 align="center">🔗 🛠️Lenguajes y herramientas</h2>
+
+<p align="center">
+  <!-- Badge Python sin logo -->
+  <img src="https://img.shields.io/badge/Python-blue?style=flat&labelColor=blue&color=blue" alt="Python">
+
+  <!-- Badge SQL sin logo -->
+  <img src="https://img.shields.io/badge/SQL-orange?style=flat&labelColor=orange&color=orange" alt="SQL">
+</p>
+
 
 
 
