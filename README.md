@@ -9,7 +9,6 @@
   </a>
 </p>
 
-
 <h2 align="center">Hola soy Mayan ¡Es un placer conocerte! 👋</h2>
 
 Here are some ideas to get you started:
