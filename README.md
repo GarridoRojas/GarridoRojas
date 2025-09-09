@@ -2,6 +2,9 @@
 
 <h2 align="center">Hola soy Mayan ¡Es un placer conocerte! 👋</h2>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amairani-garrido-rojas27/)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amairani-garrido-rojas27/)
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=amairani27.amairani27)
 
 
