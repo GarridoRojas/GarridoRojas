@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
     <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 
