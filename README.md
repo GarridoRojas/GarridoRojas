@@ -23,10 +23,17 @@ Here are some ideas to get you started:
 <h2 align="center">🔗 🛠️Lenguajes y herramientas</h2>
 
 <p align="center">
-  <!-- Badge Python sin logo -->
-  <img src="https://img.shields.io/badge/Python-blue?style=flat&labelColor=blue&color=blue" alt="Python">
+  <!-- Badge Python con logo -->
+  <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white">
 
-  <!-- Badge SQL sin logo -->
+  <!-- Badge Postman con logo -->
+  <img src="https://img.shields.io/badge/Postman-orange?logo=Postman&logoColor=white">
+
+  <!-- Badge Jira con logo -->
+  <img src="https://img.shields.io/badge/Jira-blue?logo=Jira&logoColor=white">
+
+
+  <!-- Badge SQL con logo -->
   <img src="https://img.shields.io/badge/SQL-orange?style=flat&labelColor=orange&color=orange" alt="SQL">
 </p>
 
