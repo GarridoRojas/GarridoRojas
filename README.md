@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on as a service desk analyst.
 - 🌱 I'm currently learning and studying SQL and Python language
+- 🍀 I'm excited to look for new challenges and learning experiences in the IT environment
 - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
     <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
