@@ -29,12 +29,17 @@ Here are some ideas to get you started:
   <!-- Badge Postman con logo -->
   <img src="https://img.shields.io/badge/Postman-orange?logo=Postman&logoColor=white">
 
-  <!-- Badge Jira con logo -->
-  <img src="https://img.shields.io/badge/Jira-blue?logo=Jira&logoColor=white">
-
+  <!-- Badge JIRA con logo -->
+  <img src="https://img.shields.io/badge/JIRA-blue?logo=Jira&logoColor=white">
 
   <!-- Badge SQL con logo -->
-  <img src="https://img.shields.io/badge/SQL-orange?style=flat&labelColor=orange&color=orange" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-red?logo=SQL&logoColor=WHITE">
+
+  <!-- Badge DevTools con logo -->
+  <img src="https://img.shields.io/badge/DevTools-white?logo=DevTools&logoColor=white">
+
+
+  <img src="https://img.shields.io/badge/Andriod%20studio-blue?logo=Android%20studio&logoColor=green">
 </p>
 
 
