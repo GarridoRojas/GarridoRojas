@@ -14,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on as a service desk analyst.
+- 🔭 I'm currently working as a service desk analyst.
 - 🌱 I'm currently learning and studying SQL and Python language
 - 🍀 I'm excited to look for new challenges and learning experiences in the IT environment
 - 📫 How to reach me: 
