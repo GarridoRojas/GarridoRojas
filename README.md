@@ -10,7 +10,7 @@
 </p>
 
 
-<h2 align="center">Hola soy Mayan ¡Es un placer conocerte! 👋</h2>
+<h2 align="center">Hi, I'm Mayan. It's a pleasure to meet you! 👋</h2>
 
 Here are some ideas to get you started:
 
