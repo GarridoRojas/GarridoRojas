@@ -6,7 +6,7 @@
   </a>
   
   <!-- Badge Visitas uniforme -->
-  <img src="https://img.shields.io/badge/Visitas-123-000000?style=flat&labelColor=0077B5&color=000000" alt="Visitas">
+  <img src="https://img.shields.io/badge/Visits-123-000000?style=flat&labelColor=0077B5&color=000000" alt="Visitas">
 </p>
 
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
     <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 
-<h2 align="center">🔗 🛠️Lenguajes y herramientas</h2>
+<h2 align="center">🛠️Languages ​​and tools</h2>
 
 <p align="center">
   <!-- Badge Python con logo -->
