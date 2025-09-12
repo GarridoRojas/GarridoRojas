@@ -12,13 +12,38 @@
 
 <h2 align="center">Hi, I'm Mayan. It's a pleasure to meet you! 👋</h2>
 
-Here are some ideas to get you started:
+I am a technology professional with experience as an IT Service Desk Analyst and transitioning to the Quality Assurance (QA) field. I am currently specializing in software testing thanks to an intensive bootcamp, where I have acquired knowledge in manual testing, test case design, agile methodologies, and testing tools.
 
-- 🔭 I'm currently working as a service desk analyst.
-- 🌱 I'm currently learning and studying SQL and Python language
-- 🍀 I'm excited to look for new challenges and learning experiences in the IT environment
-- 📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
+🎯 Career Objective
+Develop as a QA Engineer, providing attention to detail, analytical thinking, and a commitment to software quality, contributing to the success of development teams.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 QA & Testing  
+- Manual Testing | Functional Testing | Regression Testing  
+- Test Case Design | Bug Reporting | Test Documentation  
+- Tools: Postman | JMeter | Cypress | Selenium  
+
+### 🔧 IT Service Desk  
+- Incident & Problem Management  
+- User Support | Troubleshooting  
+- Tools: AD | ServiceNow | SAP  
+
+### 🌐 Development & Others  
+- Languages: Python | JavaScript | SQL   
+- Methodologies: Agile | Scrum  
+
+---
+
+## 🌱 Interests
+- Continuous learning in QA and test automation.
+- Collaboration on software projects that prioritize quality.
+- Personal development in technology and agile methodologies.
+
+# 📫 How to reach me:  
+<a href="https://www.linkedin.com/in/amairani-garrido-rojas27/">
     <img src="https://img.shields.io/badge/-Amairani%20Garrido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 
 <h2 align="center">🛠️Languages ​​and tools</h2>
